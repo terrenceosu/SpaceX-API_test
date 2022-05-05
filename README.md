@@ -153,5 +153,7 @@ GET https://api.spacexdata.com/v4/launches/latest
 
 ## FAQ's
 
-* If you have any questions or corrections, please open an issue and we'll get it merged ASAP
-* For any other questions or concerns, just shoot me an email.
+* If you have any questions or corrections, please open an issue located at the top next to the <>Code option.  This will be emailed out to our admin to help resolve your issue.
+* Please refer to the Code of Conduct and Contribution information located on the Insights Community Standards Page.  These files are also located in the repository and can be opened locally.
+* Please follow the Pull Request Template when creating a pull request.
+* Please use the Issues option to report any bad behavior.  The Admins will handle this as quickly as possible.
